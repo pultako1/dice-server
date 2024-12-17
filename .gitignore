@@ -1,4 +1,5 @@
 node_modules/
 build/
+.npmrc
 *.log
-.env*
+.DS_Store
